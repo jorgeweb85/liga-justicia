@@ -9,4 +9,8 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde Github
 
-Este es un mensaje actualizado complemente desde github
+Este es un mensaje actualizado complemente desde github 
+
+#Autor 
+
+jorge Montellano
